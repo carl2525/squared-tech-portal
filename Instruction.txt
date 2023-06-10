@@ -1,0 +1,4 @@
+1. Paste the FinalProject Folder in xampp-htdodcs Folder
+2. Open homepage.php
+3. Further Instruction is on the homepage of our Project
+4. You're Good to go Enjoy!!
